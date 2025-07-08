@@ -20,7 +20,7 @@ print("Fuera de la funcion: " + barney)
 
 #Peroo tambien podemos hacer que esa variable que esta dentro de la funcion sea GLOBAL
 
-barney = "blueShift"
+barney = "blueShift" #Ya no se considera
 
 def City17():
     global barney
