@@ -13,3 +13,5 @@ print("---- Conteo de Variables - Lista ----")
 #Ademas podemos hacer un conteo de lo que tiene esta misma coleccion con la funcion len()
 print(len(thislist))
 
+
+
